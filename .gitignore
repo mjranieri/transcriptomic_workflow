@@ -9,7 +9,11 @@ tmp*/
 cmpfastq/
 
 
-
+# Ignore large sequencing files
+data/prinseq/*.fastq
+data/stringtie_quant/*.gtf
+data/stringtie_guided/*.gtf
+*.bam
 
 # OS
 .DS_Store
