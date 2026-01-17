@@ -5,8 +5,8 @@ zebrafishaccessions="SRR633516 SRR633540 SRR633541 SRR633544 SRR633545"
 
 
 # Complete list of all accession numbers reported in the paper:
-zebrafishaccessionscomplete="SRR633516 SRR633540 SRR633541 SRR633542 SRR633543 SRR633549 SRR633548 SRR633547 SRR633546 SRR633544 SRR633545"
-conditions= "ck ck ck ck ck cold cold cold cold cold cold "
+#zebrafishaccessions="SRR633516 SRR633540 SRR633541 SRR633542 SRR633543 SRR633549 SRR633548 SRR633547 SRR633546 SRR633544 SRR633545"
+#conditions= "ck ck ck ck ck cold cold cold cold cold cold "
 
 
 #open data/multiqc_report/multiqc_report.htm per aprire il files combinato dei controlli fastQC

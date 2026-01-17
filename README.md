@@ -29,12 +29,11 @@ This dataset is ideal for demonstrating an RNA-seq workflow because:
 ```bash
 conda env create -f environment.yml
 conda activate transcriptome_rnaseq
-```
 
 
-> **Note:** Although the input FASTQ files are paired-end, quality filtering with PRINSEQ can break read pairing. 
+
+
+
+
+Although the input FASTQ files are paired-end, quality filtering with PRINSEQ can break read pairing. 
 The cmpfastq step is therefore used to recover properly paired reads before alignment, following the logic of the original workflow.
-
-
-
-

@@ -3,7 +3,7 @@
 
 mkdir -p data/raw
 
-# Lista degli accession numbers
+#accession numbers list
 source config.sh
 
 download_sra() {
