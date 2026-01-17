@@ -1,0 +1,15 @@
+# StringTie/ RNA-seq
+*.tmp
+*.temp
+*.bam
+*.bam.bai
+
+genome/
+tmp*/
+cmpfastq/
+
+
+
+
+# OS
+.DS_Store

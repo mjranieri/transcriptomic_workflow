@@ -1,0 +1,24 @@
+name: tx_workflow
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - sra-tools
+  - fastqc
+  - fastp
+  - hisat2
+  - stringtie
+  - samtools
+  - bedtools
+  - r-base
+  - r-essentials
+  - bioconductor-deseq2
+  - bioconductor-ballgown

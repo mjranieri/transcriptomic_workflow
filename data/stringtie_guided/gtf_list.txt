@@ -1,0 +1,5 @@
+data/stringtie_guided/SRR633516.gtf
+data/stringtie_guided/SRR633540.gtf
+data/stringtie_guided/SRR633541.gtf
+data/stringtie_guided/SRR633544.gtf
+data/stringtie_guided/SRR633545.gtf

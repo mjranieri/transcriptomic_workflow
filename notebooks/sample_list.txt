@@ -1,0 +1,5 @@
+SRR633516    data/stringtie_quant/SRR633516_quant.gtf
+SRR633540    data/stringtie_quant/SRR633540_quant.gtf
+SRR633541    data/stringtie_quant/SRR633541_quant.gtf
+SRR633544    data/stringtie_quant/SRR633544_quant.gtf
+SRR633545    data/stringtie_quant/SRR633545_quant.gtf
