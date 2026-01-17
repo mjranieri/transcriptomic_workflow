@@ -4,6 +4,9 @@
 *.bam
 *.bam.bai
 
+data/prinseq/*.fastq
+data/stringtie_guided/*.gtf
+data/stringtie_quant/*.gtf
 genome/
 tmp*/
 cmpfastq/
