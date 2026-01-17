@@ -22,18 +22,19 @@ This dataset is ideal for demonstrating an RNA-seq workflow because:
 2. **Differential expression**: clear biological signal between control and stressed larvae.  
 3. **Transcript assembly**: alternative splicing events provide real examples for transcript reconstruction and quantification.  
 
-## ⚙️ Installation
+## Installation
 
 1. Install **Miniconda** or **Anaconda**: [Miniconda installation guide](https://docs.conda.io/en/latest/miniconda.html)  
 2. Create the Conda environment:
 ```bash
 conda env create -f environment.yml
 conda activate transcriptome_rnaseq
+```
 
 
-
-
-
-
-Although the input FASTQ files are paired-end, quality filtering with PRINSEQ can break read pairing. 
+> **Note:** Although the input FASTQ files are paired-end, quality filtering with PRINSEQ can break read pairing. 
 The cmpfastq step is therefore used to recover properly paired reads before alignment, following the logic of the original workflow.
+
+
+
+
