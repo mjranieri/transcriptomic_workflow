@@ -10,6 +10,7 @@ data/stringtie_quant/*.gtf
 genome/
 tmp*/
 cmpfastq/
+data/stringtie_quant/*.ctab
 
 
 # Ignore large sequencing files
