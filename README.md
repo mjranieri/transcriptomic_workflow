@@ -14,14 +14,6 @@ The study revealed that cold stress affected genes involved in:
 
 Moreover, the larvae showed **alternative splicing and promoter switching**, allowing them to produce slightly different gene isoforms. This mechanism enables the transcriptional machinery to function more efficiently under cold stress, demonstrating an adaptive molecular response to environmental change.
 
-### Why This Dataset is Useful
-
-This dataset is ideal for demonstrating an RNA-seq workflow because:
-
-1. **Paired-end reads**: allows demonstration of QC, trimming, and mapping workflows.  
-2. **Differential expression**: clear biological signal between control and stressed larvae.  
-3. **Transcript assembly**: alternative splicing events provide real examples for transcript reconstruction and quantification.  
-
 ### Deviations from the original workflow
 This project is inspired by the original RNA-seq workflow described in the referenced paper. Several of the tools used in the original workflow are now obsolete, unmaintained, or difficult to install on modern systems due to severe dependency and versioning issues (e.g. reliance on Python 2.7 and deprecated aligners).
 
