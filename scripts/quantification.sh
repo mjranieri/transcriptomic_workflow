@@ -12,7 +12,7 @@ COUNTER=0
 
 quantify_stringtie() {
     local f=$1
-    echo "▶ Quantifying: $f"
+    echo "Quantifying: $f"
     stringtie data/hisat2/"$f"_sorted.bam \
         -e -B -G $MERGED_GTF \
         -o $OUTDIR/"$f"_quant.gtf
